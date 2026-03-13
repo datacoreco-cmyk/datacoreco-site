@@ -1,0 +1,1 @@
+console.log("DataCore Co website loaded");
